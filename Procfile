@@ -1,1 +1,1 @@
-web: gunicorn Tintosh_Web.wsgi:application
+web gunicorn TinTosh_Web.wsgi:application --log-file -
