@@ -90,12 +90,6 @@ We welcome contributions! Follow these steps:
 3. Commit your changes with meaningful messages.
 4. **Push** the changes and create a **Pull Request**.
 
----
-
-## 🔗 Connect with Us
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🌐 Website: [https://dualforce.tech](https://dualforce.tech)  
-🐦 Twitter: [@dualforce](https://twitter.com/dualforce)  
 
 ---
 
