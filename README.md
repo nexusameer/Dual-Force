@@ -1,6 +1,4 @@
-# 📌 Dual-Force Tech Website
 
-![Project Banner](https://your-image-link.com)  
 
 ## 🚀 Introduction
 Dual-Force is a modern and responsive tech website that provides the latest updates, reviews, and insights into the world of technology. Built with a robust and scalable architecture, this platform ensures seamless user experience and efficient content management.
